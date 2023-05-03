@@ -1,7 +1,7 @@
 # INO-Arduino-Bluetooth-Lamp-Control
 Kontrol Lampu Menggunakan Smartphone Android Via Koneksi Bluetooth.<br>
 
-**Aplikasi Android yang Digunakan: [Conar_LED™](https://github.com/Drumber/RemoteLight/releases) by Wynz** 
+**Aplikasi Android yang Digunakan: [Conar_LED™](https://github.com/wayan-wynz/Android-Conar_LED) by Wynz** 
 
 ## Bahan-bahan Utama
 - Arduino Uno
@@ -21,3 +21,6 @@ Kontrol Lampu Menggunakan Smartphone Android Via Koneksi Bluetooth.<br>
 
 ## Gambar Skematik
 <img alt="UI Overview Dark" src="images/Skematik.jpg" width="410"> 
+
+## Spill
+<img alt="UI Overview Dark" src="images/1.jpg" width="300"><img alt="UI Overview Dark" src="images/2.jpg" width="300">
