@@ -23,4 +23,4 @@ Kontrol Lampu Menggunakan Smartphone Android Via Koneksi Bluetooth.<br>
 <img alt="UI Overview Dark" src="images/Skematik.jpg" width="410"> 
 
 ## Spill
-<img alt="UI Overview Dark" src="images/1.jpg" width="300"><img alt="UI Overview Dark" src="images/2.jpg" width="300">
+<img alt="UI Overview Dark" src="images/IMG_20180511_095251.jpg" width="300"><img alt="UI Overview Dark" src="images/IMG_20180514_154821.jpg" width="300">
